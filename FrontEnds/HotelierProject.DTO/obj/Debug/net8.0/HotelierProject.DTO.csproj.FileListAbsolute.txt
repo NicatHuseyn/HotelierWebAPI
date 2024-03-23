@@ -1,0 +1,17 @@
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.DTO.deps.json
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.DTO.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.DTO.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.Application.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\bin\Debug\net8.0\HotelierProject.Domain.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.csproj.AssemblyReference.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.AssemblyInfoInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.AssemblyInfo.cs
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.csproj.CopyComplete
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\refint\HotelierProject.DTO.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\HotelierProject.DTO.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\FrontEnds\HotelierProject.DTO\obj\Debug\net8.0\ref\HotelierProject.DTO.dll

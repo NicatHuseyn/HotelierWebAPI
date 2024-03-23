@@ -1,0 +1,17 @@
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Infrastructure.deps.json
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Infrastructure.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Infrastructure.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Application.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\bin\Debug\net8.0\HotelierProject.Domain.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.csproj.CopyComplete
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\refint\HotelierProject.Infrastructure.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\HotelierProject.Infrastructure.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Infrastructure\HotelierProject.Infrastructure\obj\Debug\net8.0\ref\HotelierProject.Infrastructure.dll

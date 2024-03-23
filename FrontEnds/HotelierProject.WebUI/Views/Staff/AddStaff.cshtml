@@ -1,0 +1,31 @@
+﻿@model AddStaffDto
+
+@{
+    ViewData["Title"] = "AddStaff";
+    Layout = "~/Views/AdminLayout/_AdminLayout.cshtml";
+}
+
+<form method="post">
+    <label>Staff Name</label>
+    <input type="text"  asp-for="Name" class="form-control"/>
+    <br />
+
+    <label>Staff Profession</label>
+    <input type="text" asp-for="Profeesion" class="form-control" />
+    <br />
+
+    <label>Staff Facebook Url</label>
+    <input type="text" asp-for="FaceBookUrl" class="form-control" />
+    <br />
+
+    <label>Staff Instagram Url</label>
+    <input type="text" asp-for="InstagramUrl" class="form-control" />
+    <br />
+
+    <label>Staff Twitter Url</label>
+    <input type="text" asp-for="TwitterUrl" class="form-control" />
+    <br />
+
+    <button class="btn btn-primary">Add Staff</button>
+</form>
+

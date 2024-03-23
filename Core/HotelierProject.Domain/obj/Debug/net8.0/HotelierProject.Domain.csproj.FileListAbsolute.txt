@@ -1,0 +1,12 @@
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\bin\Debug\net8.0\HotelierProject.Domain.deps.json
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\bin\Debug\net8.0\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\bin\Debug\net8.0\HotelierProject.Domain.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.AssemblyInfo.cs
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\refint\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\ref\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Domain\obj\Debug\net8.0\HotelierProject.Domain.csproj.AssemblyReference.cache

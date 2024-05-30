@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHeRPUlr2BLB1rlixPfyscpIl23EaoFPweWtcBGMJH8KV3nYbryGzac5JOeGEsSFxy5ji2YmyoGcjVOFGEenMw==",
+  "dgSpecHash": "OKN0oKDdkq2dHEFpIaW1SZfr7u7hGeJu4NYyTHhrmw5kiitOg2lbNZWBPsiP4POwWOm1NgBzII0iS0lMVRzjVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj",
+  "projectFilePath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nicat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

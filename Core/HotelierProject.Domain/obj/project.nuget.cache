@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+n0/o4VEg6+OeHEwVdOK6EmaTlZp6uQ4x700+gssWHMOtfElT8/5oCiqTo67ULJU5beKNIFWp4AJIapDoxZimw==",
+  "dgSpecHash": "5WIpMxI1HHyiapr7DlOAheNJbwXveZM3HDSioADjWWpKA0gi6Asl8+7Ev0/VFMJ8qyOwhU8pOg6JpGq8W3Lkdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicat\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Nicat\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

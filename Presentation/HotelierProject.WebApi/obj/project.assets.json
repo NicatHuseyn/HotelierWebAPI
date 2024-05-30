@@ -262,6 +262,26 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Microsoft.AspNetCore.Cors/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Options": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/8.0.2": {
         "type": "package",
         "compile": {
@@ -2586,6 +2606,19 @@
         "lib/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
         "microsoft.aspnetcore.authentication.jwtbearer.8.0.2.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Cors/2.2.0": {
+      "sha512": "LFlTM3ThS3ZCILuKnjy8HyK9/IlDh3opogdbCVx6tMGyDzTQBgMPXLjGDLtMk5QmLDCcP3l1TO3z/+1viA8GUg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cors/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cors.xml",
+        "microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.cors.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.2": {
@@ -5792,6 +5825,7 @@
       "HotelierProject.Persistence >= 1.0.0",
       "JWT >= 10.1.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.2",
+      "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -5803,11 +5837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Presentation\\HotelierProject.WebApi\\HotelierProject.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Presentation\\HotelierProject.WebApi\\HotelierProject.WebApi.csproj",
       "projectName": "HotelierProject.WebApi",
-      "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Presentation\\HotelierProject.WebApi\\HotelierProject.WebApi.csproj",
+      "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Presentation\\HotelierProject.WebApi\\HotelierProject.WebApi.csproj",
       "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Presentation\\HotelierProject.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Presentation\\HotelierProject.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5828,14 +5862,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj": {
-              "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj"
+            "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj": {
+              "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj"
             },
-            "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj"
+            "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj"
             },
-            "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Persistence\\HotelierProject.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Persistence\\HotelierProject.Persistence.csproj"
+            "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Persistence\\HotelierProject.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Persistence\\HotelierProject.Persistence.csproj"
             }
           }
         }
@@ -5857,6 +5891,10 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[8.0.2, )"
+          },
+          "Microsoft.AspNetCore.Cors": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

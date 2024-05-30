@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj": {}
+    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj": {
+    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj",
         "projectName": "HotelierProject.Application",
-        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj",
+        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj",
         "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\obj\\",
+        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj": {
-                "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj"
+              "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj": {
+    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj",
         "projectName": "HotelierProject.Domain",
-        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj",
+        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\HotelierProject.Domain.csproj",
         "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj": {
+    "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj",
         "projectName": "HotelierProject.Infrastructure",
-        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\HotelierProject.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -204,8 +204,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj": {
-                "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj"
+              "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Core\\HotelierProject.Application\\HotelierProject.Application.csproj"
               }
             }
           }

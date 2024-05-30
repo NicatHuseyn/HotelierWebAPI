@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5qDbNS1DdT+B+HEbc1c9+Hnr6EHEFn563ODZiiBkmTp31TRqfbSM8LjRdDJr+WGz7Ce5X+6IgzvKLCdv6Dm6Nw==",
+  "dgSpecHash": "15gW5rN92Rd9FsS6RdMuOQadFONoMyjO4PZljqdgt/WDh4EsBRRuSbHVcncXd37WGIgrOcUtReG77zMWZ+/t/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotel Project\\HotelierProject\\Infrastructure\\HotelierProject.Persistence\\HotelierProject.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Nicat\\OneDrive\\Рабочий стол\\Hotelier\\HotelierWebAPI\\Infrastructure\\HotelierProject.Persistence\\HotelierProject.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nicat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

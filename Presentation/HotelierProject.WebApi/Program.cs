@@ -63,6 +63,14 @@ namespace HotelierProject.WebApi
             app.UseAuthentication();
             app.UseAuthorization();
 
+            app.UseCors(policy =>
+            {
+                policy.AllowAnyOrigin();
+                policy.AllowAnyHeader();
+                policy.AllowAnyMethod();
+            });
+
+            app.UseCors();
 
             app.MapControllers();
 

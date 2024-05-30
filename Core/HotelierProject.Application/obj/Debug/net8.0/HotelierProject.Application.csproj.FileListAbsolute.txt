@@ -15,3 +15,21 @@ C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Co
 C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.pdb
 C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.genruntimeconfig.cache
 C:\Users\Nicat\OneDrive\Рабочий стол\Hotel Project\HotelierProject\Core\HotelierProject.Application\obj\Debug\net8.0\ref\HotelierProject.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\bin\Debug\net8.0\HotelierProject.Application.deps.json
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\bin\Debug\net8.0\HotelierProject.Application.runtimeconfig.json
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\bin\Debug\net8.0\HotelierProject.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\bin\Debug\net8.0\HotelierProject.Application.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\bin\Debug\net8.0\HotelierProject.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\bin\Debug\net8.0\HotelierProject.Domain.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.csproj.AssemblyReference.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.AssemblyInfoInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.AssemblyInfo.cs
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.sourcelink.json
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.csproj.CopyComplete
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\refint\HotelierProject.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\HotelierProject.Application.genruntimeconfig.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\Hotelier\HotelierWebAPI\Core\HotelierProject.Application\obj\Debug\net8.0\ref\HotelierProject.Application.dll
